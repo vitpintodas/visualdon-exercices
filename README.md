@@ -1,5 +1,5 @@
 # visualdon-22
-Bienvenue à la repo git du cours *Visualisation de données*. Cette repo contient les différentes ressources du cours tels que les exercices et les différentes directive du projet. 
+Bienvenue à la repo git du cours *Visualisation de données*. Cette repo contient les différentes ressources du cours tels que les exercices et les différentes directives du projet. 
 
 ## Ressources
 ### SVG
