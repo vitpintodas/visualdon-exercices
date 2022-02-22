@@ -2,7 +2,7 @@
 Bienvenue à la repo git du cours *Visualisation de données*. Cette repo contient les différentes ressources du cours tels que les exercices et les différentes directives du projet. 
 
 ## Exercices 
-* (Exercice 1)[]: Dessiner et animer des SVG
+* (Exercice 1)[https://github.com/romanoe/visualdon-22/tree/main/01-SVG]: Dessiner et animer des formes SVG
 
 
 ## Ressources
