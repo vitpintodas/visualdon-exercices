@@ -2,17 +2,15 @@
 ## Rectangle
 Dessiner un rectangle rouge de 400px de largeur et 100px de hauteur
 
-## Donut
-
+## Donut 🍩
 Dessiner un donut:
 
-    * avec contours noirs
-    * avec fill transparent
-    * centré en (50,50)
-    * de rayon intérieur 30px et extérieur 60px
+* avec contours noirs
+* avec fill transparent
+* centré en (50,50)
+* de rayon intérieur 30px et extérieur 60px
 
 ## Ligne
-
 Créer une ligne qui passe par un point A (20, 50), qui a une longuer de 60px et a une pente de 5
 
 ## Path
