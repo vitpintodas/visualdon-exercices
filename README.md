@@ -8,11 +8,12 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
 
 
 ## Exercices 
-* [Exercice 1](https://github.com/romanoe/visualdon-22/tree/main/01-SVG): Dessiner et animer des formes SVG. ❗ Délai: **4 mars, 23h59** ❗
+* [Exercice 1](https://github.com/romanoe/visualdon-22/tree/main/01-SVG): Dessiner et animer des formes SVG. ❗ Délai du rendu: **4 mars, 23h59** ❗
 
 
 ## Projet
-
+* Par groupe de max deux personnes
+* Rendu en étapes
 
 ## Ressources
 ### SVG
