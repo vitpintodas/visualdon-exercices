@@ -15,31 +15,23 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
 
 ### But
 
-- Créer une visualisation à partir de un ou plusieurs jeux de données
-- Le choix des types, et le nombre, de visualisations est libre
-- Le tout doit faire passer un message, raconter une "histoire" (décrivez le contexte dans lequel s'inscrivent vos graphiques)
+    * Créer une visualisation intéractive à partir d'un ou plusieurs jeux de données
+    * Le choix de types, et le nombre de visualisations est libre
+    * Le tout doit faire passer un message, raconter une histoire 
 
 ### Délais
 
-- Le projet doit être présenté lors du cours du 21 Mai 2021
-- Il sera possible de faire des ajustements après cette date
+    * Vendredi 11 mars 23h59: Thématique (10%)
+    * Vendredi 18 mars 23h59: Wireframe (10%)
+    * Vendredi 6 mai 23h59: Site web (60%)
+    * Mercredi 11 mai, vendredi 23 mai: Présentation (20%)
 
-## Format
+### Format
 
-- Le produit final doit être sous forme de site publié
-- Le code source du site et la méthode de préparation des données doit être accessible sur Github
+* Le produit final doit être sous forme de site publié
+* Le code source du site et la méthode de préparation des données doit être accessible sur Github
 
-### Fichier `projet/readme.md` dans votre repo de cours
-
-- Doit inclure les liens vers le site publié ainsi que vers le code utilisé
-- Avec qui vous avez travaillé, si vous avez fait le projet à deux
-
-### Un dossier avec le code source
-
-- Celui-ci peut être le dossier `projet` de votre repo de cours, ou un autre repo
-- Doit contenir le code pour la préparation de données et pour le site
-
-Suggestion de structure du dossier:
+### Suggestion de structure du dossier:
 
 ```
 ├── data
@@ -58,3 +50,7 @@ où `data` contient le code pour la préparation de données et `src` celui de v
 ### SVG
 * [Cours de l'année passée](https://observablehq.com/@idris-maps/svg)
 * [Tutoriel MDN](https://developer.mozilla.org/en-US/docs/Web/SVG/Tutorial)
+
+### D3
+* https://d3js.org/
+* https://www.d3-graph-gallery.com/
