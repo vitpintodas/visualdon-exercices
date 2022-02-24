@@ -29,20 +29,6 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
 * Le produit final doit être sous forme de site publié
 * Le code source du site et la méthode de préparation des données doit être accessible sur Github
 
-### Suggestion de structure du dossier:
-
-```
-├── data
-│   ├── preparerX.js
-│   ├── x.csv
-│   └── x.json
-├── readme.md
-└── src
-    ├── votre_site.js
-    └── votre_site.js
-```
-
-où `data` contient le code pour la préparation de données et `src` celui de votre page web
 
 ## Ressources
 ### SVG
