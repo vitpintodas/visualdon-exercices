@@ -1,4 +1,4 @@
-# visualdon-22
+# Visualisation de données (VisualDon)
 Bienvenue à la repo git du cours *Visualisation de données*. Cette repo contient les différentes ressources du cours tels que les exercices et les différentes directives du projet. 
 
 Ce document sera mis à jour au fur et à mesure du semestre avec les informations du cours (exercices, projet) ainsi que les corrections des exercices. Bon cours!
