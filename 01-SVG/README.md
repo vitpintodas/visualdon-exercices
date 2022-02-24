@@ -11,7 +11,7 @@ Dessiner un donut:
 * de rayon intérieur 30px et extérieur 60px
 
 ## Ligne
-Créer une ligne qui passe par un point A (20, 50), qui a une longuer de 60px et a une pente de 5
+Créer une ligne qui passe par un point A (20px, 50px), qui a une longuer de 60px et a une pente de 5
 
 ## Path
 Ecrivez votre prénom avec path
