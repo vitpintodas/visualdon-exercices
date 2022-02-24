@@ -27,4 +27,4 @@ Agrandir le rayon extérieur du donut que vous avez créé on hover
 
 
 ## Prenez la première lettre de votre prénom que vous avez créée ci-dessus. Faite bouger une forme de votre choix le long de la lettre
-Astuces: <animateMotion>
+Astuces: `<animateMotion>`
