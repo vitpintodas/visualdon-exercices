@@ -6,7 +6,7 @@ Dessiner un rectangle rouge de 400px de largeur et 100px de hauteur
 Dessiner un donut:
 
 * avec contours noirs
-* avec fill transparent
+* sans remplissage 
 * centré en (50,50)
 * de rayon intérieur 30px et extérieur 60px
 
@@ -14,7 +14,7 @@ Dessiner un donut:
 Créer une ligne qui passe par un point A (20px, 50px), qui a une longuer de 60px et a une pente de 5
 
 ## Path
-Ecrivez votre prénom avec path
+Ecrivez votre prénom avec `<path>`
 
 # Animer des formes
 
