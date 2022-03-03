@@ -1,5 +1,6 @@
 # Visualisation de données (*VisualDon*)
-Bienvenue à la repo git du cours *Visualisation de données*. Cette repo contient les différentes ressources du cours tels que les exercices et les différentes directives du projet.
+
+Bienvenue à la repo git du cours *Visualisation de données*. Cette repo contient les différentes ressources du cours tels que les exercices et les différentes directives du projet. 
 
 Ce document sera mis à jour au fur et à mesure du semestre avec les informations du cours (exercices, projet) ainsi que les corrections des exercices. Bon cours!
 
@@ -11,12 +12,13 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
 * [Exercice 1](https://github.com/romanoe/visualdon-22/tree/main/01-SVG): Dessiner et animer des formes SVG. ❗ Délai du rendu: **4 mars, 23h59** ❗
 * [Exercice 2](https://github.com/romanoe/visualdon-22/tree/main/02-intro-d3) : Introduction à D3 ❗ Délai du rendu: **11 mars, 23h59** ❗
 
+
 ## Projet
 
 ### But
 * Créer une visualisation intéractive à partir d'un ou plusieurs jeux de données
 * Le choix de types, et le nombre de visualisations est libre
-* Le tout doit faire passer un message, raconter une histoire
+* Le tout doit faire passer un message, raconter une histoire 
 
 ### Délais
 * Vendredi 11 mars 23h59: Thématique (10%)
