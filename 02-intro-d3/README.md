@@ -7,7 +7,7 @@
 
 :rocket: Vous devriez avoir accès à votre serveur local sur [localhost:8080](http:localhost:8000) :rocket:
 
-Le fichier html se trouve dans ```public/index.html``` et l'exercice se déroulera dans le fichier ```ìndex.js```, où vous allez écrire vos premières lignes de code en d3!
+Le fichier html se trouve dans ```public/index.html``` et l'exercice se déroulera dans le fichier ```src/ìndex.js```, où vous allez écrire vos premières lignes de code en d3!
 
 **Important**: dans cet exercice seulement les méthodes de d3 pourront être utilisées. 
 
