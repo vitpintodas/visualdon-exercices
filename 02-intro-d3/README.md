@@ -1,6 +1,7 @@
 # Introduction à D3
 
 ## Installation
+* Installez **Node.js** et **npm** si vous ne les avez pas encore sur votre machine ([tutoriel](https://kinsta.com/blog/how-to-install-node-js/)). Apprendre Node.js ce n'est pas le but du cours mais ça vous permettra de faire tourner un server en local et manager vos paquets en toute facilité 😏 
 * Allez dans le dossier de l'exercice ```cd 02-intro-d3```
 * Installez les packages nécessaires et qui sont dans le package.json ```npm install```
 * Démarrez le serveur ```npm start```
