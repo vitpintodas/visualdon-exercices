@@ -16,7 +16,7 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
 ## Projet
 
 ### But
-* Créer une visualisation intéractive à partir d'un ou plusieurs jeux de données
+* Créer une visualisation interactive à partir d'un ou plusieurs jeux de données
 * Le choix de types, et le nombre de visualisations est libre
 * Le tout doit faire passer un message, raconter une histoire 
 
