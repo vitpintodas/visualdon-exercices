@@ -16,7 +16,6 @@ Comme la semaine passée, le fichier html se trouve dans ```public/index.html```
 Pour charger plusieurs datasets: https://stackoverflow.com/questions/49239474/load-multiple-files-using-the-d3-fetch-module
 
 ## Manipuler les données
-Ecrivez dans le DOM les résultats suivants: 
 * A partir des données **users** et **posts**, créez un tableau d'objets qui a la structure suivante
 
 ```js
@@ -33,6 +32,8 @@ Ecrivez dans le DOM les résultats suivants:
   // ...
 ]
 ```
+Ecrivez dans le DOM les résultats suivants: 
+
 * Calculez le nombre de **posts** par **user**
 * Trouvez le **user** qui a écrit le texte le plus long dans **posts.body**
 
