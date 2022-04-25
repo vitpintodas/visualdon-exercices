@@ -2,7 +2,7 @@
 ## Installation
 * Rentrez dans le dossier *05-web-scraping* ``cd 05-web-scraping/``
 * Installez les packages nécessaires et qui sont dans le package.json ```npm install```
-* Cette fois ci, les résultats seront directement imprimés dans la console avec ```node src/index.js```
+* Cette fois ci, les résultats seront directement imprimés dans le terminal avec ```node src/index.js```
 
 ## Faire une capture d'écran de la page des cantons [Wikipédia](https://fr.wikipedia.org/wiki/Canton_(Suisse)#Donn%C3%A9es_cantonales)
 >L'utilisation de `puppeteer` est recommandée
