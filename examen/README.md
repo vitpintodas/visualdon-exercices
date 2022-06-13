@@ -12,7 +12,7 @@ Reproduire le dessin suivant dans le navigateur à l’aide des outils que vous 
 ![dessin](svg-drawing.png)
 
 ## Exercice 2 - Données
-Lisez les données countries.geojson et apportez les manipulations suivantes :
+Lisez les données `countries.geojson` et apportez les manipulations suivantes :
 
 1. Filtrez les données qui ont une population plus grandes que 1’000’000 (`POP2005`)
 2. Sortez la moyenne de la population par continent¹
