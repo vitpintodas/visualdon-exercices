@@ -1,6 +1,6 @@
 # Visualisation de données (*VisualDon*)
 
-Bienvenue à la repo git du cours *Visualisation de données*. Cette repo contient les différentes ressources du cours tels que les exercices et les différentes directives du projet. 
+Bienvenue dans le dépôt git du cours *Visualisation de données*. Ce dépôt contient les différentes ressources du cours tels que les exercices et les différentes directives du projet. 
 
 Ce document sera mis à jour au fur et à mesure du semestre avec les informations du cours (exercices, projet) ainsi que les corrections des exercices. Bon cours!
 
@@ -9,14 +9,14 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
 
 
 ## Exercices
-* [Exercice 1](https://github.com/romanoe/visualdon-22/tree/main/01-SVG): Dessiner et animer des formes SVG. ❗ Délai du rendu: **4 mars, 23h59** ❗
-* [Exercice 2](https://github.com/romanoe/visualdon-22/tree/main/02-intro-d3) : Introduction à D3 ❗ Délai du rendu: **11 mars, 23h59** ❗
-* [Exercice 3](https://github.com/romanoe/visualdon-22/tree/main/03-d3-data) : Données ❗ Délai du rendu: **23 mars, 23h59** ❗
-* [Exercice 4](https://github.com/romanoe/visualdon-22/tree/main/04-gapminder) 
-     * Visualisation statique ❗ Délai du rendu: **1 avril, 23h59** ❗
-     * Cartographie ❗ Délai du rendu: **8 avril, 23h59** ❗
-     * Animation ❗ Délai du rendu: **22 avril, 23h59** ❗
-* [Exercice 5](https://github.com/romanoe/visualdon-22/tree/main/05-web-scraping) : Web scraping ❗ Délai du rendu: **29 avril - 23h59**❗
+* [Exercice 1](https://github.com/romanoe/visualdon-exercices/tree/main/01-SVG): Dessiner et animer des formes SVG
+* [Exercice 2](https://github.com/romanoe/visualdon-exercices/tree/main/02-intro-d3) : Introduction à D3 
+* [Exercice 3](https://github.com/romanoe/visualdon-exercices/tree/main/03-d3-data) : Données 
+* [Exercice 4](https://github.com/romanoe/visualdon-exercices/tree/main/04-gapminder) 
+     * Visualisation statique 
+     * Cartographie  
+     * Animation 
+* [Exercice 5](https://github.com/romanoe/visualdon-exercices/tree/main/05-web-scraping) : Web scraping 
 
 ## Projet
 ### But
@@ -25,10 +25,11 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
 * Le tout doit faire passer un message, raconter une histoire 
 
 ### Délais
-* Vendredi 11 mars 23h59: [Thématique](https://github.com/romanoe/visualdon-22/tree/main/projet) (10%)
-* Vendredi 18 mars 23h59: Wireframe (10%)
+* Vendredi 10 mars 23h59: [Thématique](https://github.com/romanoe/visualdon-exercices/tree/main/projet) (10%)
+* Vendredi 17 mars 23h59: Wireframe (10%)
+* Mercredi 10 mai, vendredi 12 mai: Présentation (20%)
 * Lundi 16 mai 23h59: Site web (60%)
-* Mercredi 11 mai, vendredi 13 mai: Présentation (20%)
+
 
 ### Format
 
