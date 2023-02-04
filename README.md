@@ -25,10 +25,10 @@ Ce document sera mis à jour au fur et à mesure du semestre avec les informatio
 * Le tout doit faire passer un message, raconter une histoire 
 
 ### Délais
-* Vendredi 10 mars 23h59: [Thématique](https://github.com/romanoe/visualdon-exercices/tree/main/projet) (10%)
-* Vendredi 17 mars 23h59: Wireframe (10%)
-* Mercredi 10 mai, vendredi 12 mai: Présentation (20%)
-* Lundi 16 mai 23h59: Site web (60%)
+* Vendredi 10 mars 23h59: [Thématique](https://github.com/romanoe/visualdon-exercices/tree/main/projet#th%C3%A9matique-10) (10%)
+* Vendredi 17 mars 23h59: [Wireframe](https://github.com/romanoe/visualdon-exercices/tree/main/projet#wireframe-10) (10%)
+* Mercredi 10 mai, vendredi 12 mai: [Présentation](https://github.com/romanoe/visualdon-exercices/tree/main/projet#pr%C3%A9sentation-20) (20%)
+* Lundi 16 mai 23h59: [Site web](https://github.com/romanoe/visualdon-exercices/tree/main/projet#site-web-60) (60%)
 
 
 ### Format
