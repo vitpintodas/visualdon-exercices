@@ -1,6 +1,6 @@
 # Visualisation de données (*VisualDon*)
 
-Bienvenue dans le dépôt git du cours *Visualisation de données*. Ce dépôt contient les différentes ressources du cours tels que les exercices et les différentes directives du projet. 
+Bienvenue dans le dépôt git du cours *Visualisation de données* [@MEI](https://heig-vd.ch/formation/bachelor/filieres/ingenierie-des-medias). Ce dépôt contient les différentes ressources du cours tels que les exercices et les différentes directives du projet. 
 
 Ce document sera mis à jour au fur et à mesure du semestre avec les informations du cours (exercices, projet) ainsi que les corrections des exercices. Bon cours!
 
