@@ -14,7 +14,7 @@ Dessiner un donut:
 Créer une ligne qui passe par un point A (20px, 50px), qui a une longuer de 60px et a une pente de 5
 
 ## Path
-Ecrivez votre prénom avec `<path>`
+Ecrivez votre prénom avec `<path></path>`
 
 # Animer des formes
 
